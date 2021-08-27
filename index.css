@@ -1,0 +1,10 @@
+*{
+	margin: 5;/*margenes*/
+	left: 0;
+	top: 0;
+}
+#Nav{
+	width: 100% ;/*Ancho de la pantalla*/
+	height: 60px; /*Alto*/
+	background-color: skyblue;
+}
